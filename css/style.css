@@ -158,3 +158,11 @@ div.container {
   }
 
 }
+
+
+.main-content {
+  height: 50vh;
+}
+.main-side {
+  height: 50vh;
+}
